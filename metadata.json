@@ -1,0 +1,6 @@
+{
+  "name": "AudioNews Explorer",
+  "description": "Listen to the latest news from India, Punjab, or search for custom topics. Supports English and Hindi with a clean day/night user interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
